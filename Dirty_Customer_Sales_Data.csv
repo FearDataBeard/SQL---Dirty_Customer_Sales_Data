@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Email,SignupDate,Revenue,Region,IsActive
+1051,John Doe,,"March 3, 2022","1,200",North,N
+1092,jane smith,janesmith@work.org,"March 3, 2022",-200,WEST,Y
+1014,SARAH connor,,,1000,East,N
+1071,ALICE JOHNSON,johndoe@gmail.com,01/02/2022,"1,200",SOUTH,Y
+1060,John Doe,sconnor@data.net,,450.50,East,No
+1020,bob lee,,2022-01-15,,south,Yes
+1082,ALICE JOHNSON,janesmith@work.org,01/02/2022,-200,WEST,
+1086,John Doe,janesmith@work.org,01/02/2022,450.50,,No
+1074,bob lee,johndoe@gmail.com,01/02/2022,,East,Y
+1074,,ALICE@EMAIL.COM,,450.50,,Y
+1087,jane smith,,,-200,North,Yes
+1099,John Doe,sconnor@data.net,01/02/2022,-200,North,N
+1023,bob lee,sconnor@data.net,2022-01-15,,,Y
+1002,ALICE JOHNSON,,01/02/2022,"1,200",,Yes
+1021,John Doe,janesmith@work.org,2022-01-15,-200,,N
+1052,John Doe,ALICE@EMAIL.COM,2022-01-15,1000,south,Yes
+1001,ALICE JOHNSON,ALICE@EMAIL.COM,01/02/2022,450.50,North,Yes
+1087,bob lee,,01/02/2022,,,
+1029,SARAH connor,johndoe@gmail.com,"March 3, 2022","1,200",East,
+1037,,sconnor@data.net,,-200,East,No
+1001,SARAH connor,janesmith@work.org,"March 3, 2022",450.50,SOUTH,Yes
+1063,jane smith,ALICE@EMAIL.COM,,450.50,East,Yes
+1059,,janesmith@work.org,,"1,200",east,
+1020,,sconnor@data.net,01/02/2022,450.50,,Yes
+1032,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",1000,North,Yes
+1075,John Doe,johndoe@gmail.com,"March 3, 2022",,east,N
+1057,SARAH connor,,,1000,south,Y
+1021,ALICE JOHNSON,ALICE@EMAIL.COM,,-200,SOUTH,N
+1088,jane smith,janesmith@work.org,2022-01-15,500,,No
+1048,SARAH connor,janesmith@work.org,"March 3, 2022","1,200",North,N
+1090,John Doe,,,1000,East,Y
+1058,ALICE JOHNSON,johndoe@gmail.com,,"1,200",east,Y
+1041,SARAH connor,sconnor@data.net,2022-01-15,-200,North,Yes
+1091,,johndoe@gmail.com,,,East,N
+1059,jane smith,sconnor@data.net,01/02/2022,450.50,SOUTH,Yes
+1079,John Doe,janesmith@work.org,,450.50,south,
+1014,bob lee,johndoe@gmail.com,"March 3, 2022",500,,Y
+1061,SARAH connor,,01/02/2022,,,Yes
+1061,ALICE JOHNSON,ALICE@EMAIL.COM,01/02/2022,1000,WEST,No
+1046,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",500,WEST,Yes
+1061,SARAH connor,sconnor@data.net,2022-01-15,500,,Yes
+1050,SARAH connor,sconnor@data.net,"March 3, 2022","1,200",,Y
+1054,ALICE JOHNSON,sconnor@data.net,,-200,SOUTH,
+1063,jane smith,ALICE@EMAIL.COM,,450.50,south,No
+1002,SARAH connor,ALICE@EMAIL.COM,,500,East,N
+1050,jane smith,sconnor@data.net,"March 3, 2022",500,south,N
+1006,SARAH connor,ALICE@EMAIL.COM,,1000,North,Y
+1020,bob lee,,2022-01-15,-200,WEST,Y
+1072,,sconnor@data.net,"March 3, 2022",450.50,North,Y
+1038,SARAH connor,janesmith@work.org,2022-01-15,"1,200",WEST,Y
+1017,SARAH connor,sconnor@data.net,01/02/2022,500,east,Yes
+1003,SARAH connor,ALICE@EMAIL.COM,,,south,No
+1088,bob lee,ALICE@EMAIL.COM,,-200,North,No
+1059,John Doe,,"March 3, 2022",,SOUTH,N
+1013,,sconnor@data.net,,-200,North,Yes
+1008,SARAH connor,ALICE@EMAIL.COM,2022-01-15,,WEST,Yes
+1089,bob lee,,"March 3, 2022",-200,East,N
+1052,SARAH connor,janesmith@work.org,01/02/2022,450.50,east,Yes
+1001,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,-200,East,Yes
+1083,bob lee,,2022-01-15,-200,south,No
+1091,John Doe,janesmith@work.org,01/02/2022,,SOUTH,N
+1059,,ALICE@EMAIL.COM,,500,East,Yes
+1070,bob lee,johndoe@gmail.com,,"1,200",SOUTH,Yes
+1043,ALICE JOHNSON,janesmith@work.org,"March 3, 2022",500,SOUTH,
+1007,John Doe,johndoe@gmail.com,01/02/2022,"1,200",WEST,Y
+1046,jane smith,janesmith@work.org,,1000,East,N
+1034,,janesmith@work.org,2022-01-15,,WEST,Yes
+1077,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,450.50,,
+1080,SARAH connor,sconnor@data.net,2022-01-15,"1,200",East,No
+1035,jane smith,ALICE@EMAIL.COM,,1000,WEST,
+1049,John Doe,sconnor@data.net,"March 3, 2022",,East,Yes
+1003,John Doe,sconnor@data.net,2022-01-15,-200,WEST,N
+1001,bob lee,johndoe@gmail.com,,1000,east,
+1005,,sconnor@data.net,,-200,East,No
+1053,SARAH connor,ALICE@EMAIL.COM,2022-01-15,,,No
+1003,John Doe,ALICE@EMAIL.COM,,500,south,Yes
+1053,bob lee,sconnor@data.net,"March 3, 2022",450.50,WEST,Y
+1092,jane smith,janesmith@work.org,2022-01-15,-200,east,No
+1062,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",500,south,N
+1017,jane smith,johndoe@gmail.com,"March 3, 2022","1,200",North,No
+1089,ALICE JOHNSON,,2022-01-15,500,south,N
+1043,bob lee,janesmith@work.org,01/02/2022,500,east,No
+1033,ALICE JOHNSON,janesmith@work.org,01/02/2022,"1,200",WEST,N
+1073,bob lee,ALICE@EMAIL.COM,01/02/2022,450.50,,N
+1061,,johndoe@gmail.com,"March 3, 2022",500,east,No
+1099,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",-200,east,Y
+1013,bob lee,janesmith@work.org,2022-01-15,1000,East,N
+1094,jane smith,,,"1,200",WEST,Yes
+1047,jane smith,,01/02/2022,"1,200",,No
+1014,ALICE JOHNSON,ALICE@EMAIL.COM,2022-01-15,1000,East,
+1071,,,2022-01-15,,south,Yes
+1077,bob lee,sconnor@data.net,2022-01-15,1000,SOUTH,
+1086,SARAH connor,,"March 3, 2022",,east,
+1061,,janesmith@work.org,2022-01-15,450.50,south,
+1039,jane smith,sconnor@data.net,"March 3, 2022","1,200",south,No
+1084,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,,North,
+1079,,janesmith@work.org,"March 3, 2022",,east,N
+1081,bob lee,janesmith@work.org,,450.50,SOUTH,No
+1052,bob lee,janesmith@work.org,"March 3, 2022","1,200",south,N
+1023,,sconnor@data.net,01/02/2022,1000,WEST,Y
+1025,SARAH connor,ALICE@EMAIL.COM,"March 3, 2022",,North,Y
+1088,bob lee,janesmith@work.org,01/02/2022,"1,200",North,Y
+1059,,johndoe@gmail.com,2022-01-15,-200,,
+1040,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",500,east,
+1028,SARAH connor,johndoe@gmail.com,"March 3, 2022",450.50,SOUTH,Yes
+1014,bob lee,,01/02/2022,"1,200",WEST,Yes
+1044,jane smith,janesmith@work.org,01/02/2022,,east,Yes
+1064,bob lee,johndoe@gmail.com,01/02/2022,450.50,,
+1088,SARAH connor,ALICE@EMAIL.COM,2022-01-15,450.50,,No
+1070,jane smith,ALICE@EMAIL.COM,2022-01-15,,south,No
+1008,ALICE JOHNSON,janesmith@work.org,,"1,200",,No
+1087,SARAH connor,,2022-01-15,"1,200",WEST,No
+1000,jane smith,,2022-01-15,"1,200",North,N
+1007,bob lee,sconnor@data.net,"March 3, 2022",450.50,,N
+1087,John Doe,sconnor@data.net,,500,east,No
+1062,jane smith,ALICE@EMAIL.COM,"March 3, 2022",-200,East,Y
+1010,John Doe,johndoe@gmail.com,2022-01-15,1000,East,
+1080,ALICE JOHNSON,sconnor@data.net,,,WEST,No
+1007,John Doe,sconnor@data.net,2022-01-15,450.50,east,N
+1034,John Doe,,2022-01-15,"1,200",WEST,No
+1034,bob lee,janesmith@work.org,,500,south,N
+1032,ALICE JOHNSON,,"March 3, 2022",,south,Yes
+1004,bob lee,ALICE@EMAIL.COM,"March 3, 2022",1000,SOUTH,Y
+1040,bob lee,johndoe@gmail.com,,500,East,No
+1027,bob lee,ALICE@EMAIL.COM,2022-01-15,500,,Yes
+1006,jane smith,janesmith@work.org,01/02/2022,500,south,Yes
+1072,John Doe,sconnor@data.net,01/02/2022,500,east,N
+1071,ALICE JOHNSON,johndoe@gmail.com,,450.50,east,
+1011,jane smith,sconnor@data.net,2022-01-15,450.50,SOUTH,N
+1033,ALICE JOHNSON,,01/02/2022,500,,N
+1032,John Doe,ALICE@EMAIL.COM,"March 3, 2022","1,200",east,Y
+1047,John Doe,janesmith@work.org,,"1,200",east,N
+1022,jane smith,janesmith@work.org,"March 3, 2022",-200,south,No
+1061,John Doe,,01/02/2022,-200,SOUTH,No
+1087,ALICE JOHNSON,johndoe@gmail.com,,"1,200",SOUTH,Yes
+1036,bob lee,johndoe@gmail.com,"March 3, 2022",,east,No
+1098,ALICE JOHNSON,ALICE@EMAIL.COM,,1000,SOUTH,Y
+1043,bob lee,sconnor@data.net,2022-01-15,"1,200",WEST,
+1085,John Doe,sconnor@data.net,"March 3, 2022",1000,North,N
+1090,,johndoe@gmail.com,01/02/2022,1000,North,
+1034,John Doe,,"March 3, 2022",,south,No
+1064,bob lee,janesmith@work.org,,500,North,
+1098,SARAH connor,sconnor@data.net,2022-01-15,,East,Y
+1046,SARAH connor,johndoe@gmail.com,01/02/2022,450.50,south,
+1077,,ALICE@EMAIL.COM,01/02/2022,-200,east,Yes
+1002,SARAH connor,johndoe@gmail.com,"March 3, 2022",,East,N
+1000,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,500,south,
+1004,bob lee,,2022-01-15,450.50,SOUTH,Y
+1089,ALICE JOHNSON,ALICE@EMAIL.COM,01/02/2022,1000,,No
+1013,,,2022-01-15,500,North,Yes
+1026,SARAH connor,ALICE@EMAIL.COM,,500,WEST,Y
+1008,,ALICE@EMAIL.COM,"March 3, 2022","1,200",east,N
+1078,ALICE JOHNSON,sconnor@data.net,2022-01-15,"1,200",east,Y
+1014,ALICE JOHNSON,janesmith@work.org,"March 3, 2022",500,,No
+1089,John Doe,,,"1,200",North,Yes
+1041,ALICE JOHNSON,janesmith@work.org,"March 3, 2022",-200,,N
+1076,,ALICE@EMAIL.COM,01/02/2022,500,east,
+1050,SARAH connor,sconnor@data.net,"March 3, 2022",,east,Y
+1062,jane smith,ALICE@EMAIL.COM,,-200,East,
+1095,bob lee,ALICE@EMAIL.COM,"March 3, 2022",-200,,N
+1051,ALICE JOHNSON,janesmith@work.org,"March 3, 2022",,south,N
+1095,SARAH connor,,"March 3, 2022",,east,Yes
+1003,John Doe,sconnor@data.net,"March 3, 2022",,SOUTH,Yes
+1093,John Doe,janesmith@work.org,,450.50,south,Y
+1022,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,"1,200",SOUTH,Yes
+1014,bob lee,janesmith@work.org,,1000,east,
+1042,,johndoe@gmail.com,,-200,east,No
+1028,bob lee,janesmith@work.org,2022-01-15,,SOUTH,N
+1035,John Doe,ALICE@EMAIL.COM,2022-01-15,450.50,WEST,Y
+1012,John Doe,sconnor@data.net,"March 3, 2022",450.50,SOUTH,Y
+1031,ALICE JOHNSON,,01/02/2022,500,,Y
+1070,jane smith,ALICE@EMAIL.COM,2022-01-15,-200,,Yes
+1058,ALICE JOHNSON,,,1000,SOUTH,Yes
+1085,jane smith,sconnor@data.net,,1000,south,No
+1027,John Doe,ALICE@EMAIL.COM,,1000,East,N
+1065,,janesmith@work.org,2022-01-15,"1,200",East,N
+1041,bob lee,ALICE@EMAIL.COM,,"1,200",North,Y
+1044,SARAH connor,,"March 3, 2022",450.50,SOUTH,N
+1061,bob lee,,2022-01-15,,SOUTH,Yes
+1056,bob lee,ALICE@EMAIL.COM,01/02/2022,500,North,Yes
+1005,bob lee,,"March 3, 2022",450.50,WEST,No
+1027,,johndoe@gmail.com,"March 3, 2022","1,200",North,
+1027,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",1000,East,
+1043,jane smith,sconnor@data.net,2022-01-15,500,North,N
+1083,,sconnor@data.net,01/02/2022,-200,North,N
+1029,ALICE JOHNSON,,,1000,WEST,No
+1061,John Doe,sconnor@data.net,"March 3, 2022",1000,East,Y
+1074,ALICE JOHNSON,sconnor@data.net,2022-01-15,,,
+1091,jane smith,sconnor@data.net,"March 3, 2022",500,North,Y
+1088,bob lee,johndoe@gmail.com,01/02/2022,-200,,Yes
+1061,SARAH connor,ALICE@EMAIL.COM,2022-01-15,-200,East,No
+1096,jane smith,sconnor@data.net,"March 3, 2022",1000,SOUTH,
+1000,bob lee,,01/02/2022,,SOUTH,
+1026,SARAH connor,ALICE@EMAIL.COM,01/02/2022,450.50,East,
+1061,ALICE JOHNSON,johndoe@gmail.com,,"1,200",East,Y
+1076,SARAH connor,janesmith@work.org,01/02/2022,,,
+1002,jane smith,janesmith@work.org,"March 3, 2022",500,WEST,Y
+1069,bob lee,johndoe@gmail.com,2022-01-15,,south,N
+1071,bob lee,janesmith@work.org,,-200,East,No
+1026,bob lee,,01/02/2022,-200,south,Y
+1008,ALICE JOHNSON,,2022-01-15,"1,200",SOUTH,Yes
+1061,,sconnor@data.net,,450.50,North,N
+1036,SARAH connor,janesmith@work.org,"March 3, 2022",450.50,east,N
+1096,,ALICE@EMAIL.COM,"March 3, 2022",500,,
+1050,John Doe,johndoe@gmail.com,01/02/2022,-200,North,Yes
+1043,bob lee,johndoe@gmail.com,"March 3, 2022",,east,
+1023,jane smith,johndoe@gmail.com,"March 3, 2022",,WEST,No
+1078,bob lee,johndoe@gmail.com,,450.50,East,N
+1058,jane smith,sconnor@data.net,01/02/2022,1000,SOUTH,No
+1031,ALICE JOHNSON,johndoe@gmail.com,,500,WEST,No
+1095,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,1000,North,Y
+1087,John Doe,ALICE@EMAIL.COM,,,East,
+1051,John Doe,janesmith@work.org,"March 3, 2022",500,North,No
+1061,,sconnor@data.net,"March 3, 2022","1,200",SOUTH,Y
+1057,bob lee,janesmith@work.org,"March 3, 2022",-200,North,
+1051,SARAH connor,,"March 3, 2022",1000,east,No
+1011,bob lee,sconnor@data.net,"March 3, 2022",-200,SOUTH,N
+1038,,,01/02/2022,"1,200",WEST,Yes
+1001,ALICE JOHNSON,ALICE@EMAIL.COM,2022-01-15,,south,Y
+1002,bob lee,janesmith@work.org,2022-01-15,,east,Yes
+1055,SARAH connor,johndoe@gmail.com,01/02/2022,450.50,south,No
+1080,bob lee,,"March 3, 2022","1,200",SOUTH,N
+1058,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",1000,WEST,Yes
+1001,,johndoe@gmail.com,"March 3, 2022",450.50,SOUTH,Yes
+1001,SARAH connor,ALICE@EMAIL.COM,2022-01-15,,south,N
+1091,John Doe,sconnor@data.net,2022-01-15,450.50,North,Yes
+1053,bob lee,johndoe@gmail.com,,,east,
+1086,John Doe,ALICE@EMAIL.COM,"March 3, 2022",500,east,
+1095,jane smith,,01/02/2022,-200,SOUTH,No
+1096,John Doe,sconnor@data.net,"March 3, 2022",1000,east,Yes
+1000,bob lee,sconnor@data.net,"March 3, 2022",1000,,N
+1018,,ALICE@EMAIL.COM,,500,WEST,N
+1001,SARAH connor,sconnor@data.net,01/02/2022,1000,North,
+1052,John Doe,sconnor@data.net,01/02/2022,"1,200",SOUTH,Y
+1043,John Doe,janesmith@work.org,,450.50,SOUTH,Yes
+1089,bob lee,sconnor@data.net,,450.50,east,Y
+1031,bob lee,,,500,SOUTH,Y
+1069,bob lee,ALICE@EMAIL.COM,"March 3, 2022","1,200",south,Y
+1031,,janesmith@work.org,,"1,200",south,
+1067,bob lee,,2022-01-15,-200,East,Y
+1054,John Doe,ALICE@EMAIL.COM,01/02/2022,450.50,south,Y
+1074,jane smith,sconnor@data.net,01/02/2022,1000,east,Y
+1055,John Doe,,"March 3, 2022",,North,
+1016,,sconnor@data.net,01/02/2022,1000,WEST,N
+1037,John Doe,sconnor@data.net,01/02/2022,,,No
+1023,,johndoe@gmail.com,"March 3, 2022",450.50,North,No
+1068,,,2022-01-15,1000,east,Yes
+1097,bob lee,,,1000,WEST,No
+1069,ALICE JOHNSON,,"March 3, 2022",-200,south,Y
+1085,,sconnor@data.net,01/02/2022,1000,,Y
+1010,John Doe,ALICE@EMAIL.COM,,-200,North,No
+1015,ALICE JOHNSON,ALICE@EMAIL.COM,,"1,200",east,
+1096,jane smith,sconnor@data.net,"March 3, 2022",,WEST,Y
+1072,SARAH connor,janesmith@work.org,2022-01-15,,SOUTH,Yes
+1058,John Doe,sconnor@data.net,2022-01-15,450.50,East,
+1069,bob lee,,,"1,200",East,Y
+1079,ALICE JOHNSON,johndoe@gmail.com,01/02/2022,-200,SOUTH,
+1092,,,01/02/2022,,,N
+1002,ALICE JOHNSON,sconnor@data.net,2022-01-15,450.50,WEST,Yes
+1019,John Doe,ALICE@EMAIL.COM,01/02/2022,"1,200",WEST,Y
+1058,SARAH connor,janesmith@work.org,2022-01-15,-200,south,Y
+1035,jane smith,janesmith@work.org,01/02/2022,"1,200",North,Yes
+1018,SARAH connor,,"March 3, 2022","1,200",east,N
+1089,bob lee,sconnor@data.net,,1000,North,No
+1066,bob lee,ALICE@EMAIL.COM,01/02/2022,"1,200",,Yes
+1018,bob lee,janesmith@work.org,"March 3, 2022",-200,SOUTH,
+1019,ALICE JOHNSON,sconnor@data.net,,"1,200",SOUTH,Yes
+1095,jane smith,janesmith@work.org,01/02/2022,"1,200",WEST,
+1070,SARAH connor,sconnor@data.net,,450.50,east,Yes
+1051,,,2022-01-15,,North,Yes
+1032,SARAH connor,,01/02/2022,1000,south,N
+1039,bob lee,janesmith@work.org,"March 3, 2022","1,200",,N
+1038,,ALICE@EMAIL.COM,2022-01-15,1000,SOUTH,Yes
+1081,jane smith,sconnor@data.net,"March 3, 2022",1000,south,No
+1000,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",1000,east,No
+1010,bob lee,ALICE@EMAIL.COM,2022-01-15,1000,East,Y
+1091,jane smith,,01/02/2022,,East,Y
+1056,bob lee,ALICE@EMAIL.COM,"March 3, 2022",-200,WEST,No
+1088,bob lee,johndoe@gmail.com,2022-01-15,,south,Y
+1049,,janesmith@work.org,,450.50,east,N
+1022,,janesmith@work.org,01/02/2022,1000,North,Y
+1030,,johndoe@gmail.com,01/02/2022,,East,
+1093,,ALICE@EMAIL.COM,,,,
+1041,bob lee,johndoe@gmail.com,01/02/2022,-200,East,Yes
+1098,SARAH connor,sconnor@data.net,01/02/2022,1000,East,N
+1006,ALICE JOHNSON,ALICE@EMAIL.COM,,450.50,SOUTH,Yes
+1015,John Doe,sconnor@data.net,01/02/2022,-200,WEST,No
+1089,,johndoe@gmail.com,"March 3, 2022",500,North,
+1059,bob lee,,01/02/2022,450.50,SOUTH,
+1001,,johndoe@gmail.com,2022-01-15,450.50,east,N
+1000,bob lee,ALICE@EMAIL.COM,2022-01-15,500,WEST,Y
+1047,John Doe,ALICE@EMAIL.COM,"March 3, 2022",-200,south,
+1011,jane smith,ALICE@EMAIL.COM,,"1,200",,Y
+1068,ALICE JOHNSON,janesmith@work.org,"March 3, 2022",,East,N
+1036,John Doe,janesmith@work.org,01/02/2022,"1,200",east,Yes
+1031,ALICE JOHNSON,ALICE@EMAIL.COM,01/02/2022,500,North,Y
+1008,jane smith,sconnor@data.net,"March 3, 2022",1000,east,
+1098,bob lee,ALICE@EMAIL.COM,01/02/2022,"1,200",south,No
+1018,,janesmith@work.org,,-200,east,No
+1047,ALICE JOHNSON,sconnor@data.net,01/02/2022,1000,SOUTH,Y
+1079,ALICE JOHNSON,janesmith@work.org,,500,SOUTH,No
+1002,jane smith,ALICE@EMAIL.COM,2022-01-15,"1,200",East,No
+1019,SARAH connor,ALICE@EMAIL.COM,2022-01-15,1000,East,Yes
+1023,ALICE JOHNSON,,,1000,east,Yes
+1053,,ALICE@EMAIL.COM,01/02/2022,500,south,N
+1032,John Doe,ALICE@EMAIL.COM,"March 3, 2022",,,No
+1023,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",450.50,North,
+1074,SARAH connor,janesmith@work.org,01/02/2022,-200,SOUTH,Yes
+1071,,ALICE@EMAIL.COM,01/02/2022,450.50,south,Y
+1035,John Doe,sconnor@data.net,01/02/2022,450.50,East,
+1037,,johndoe@gmail.com,"March 3, 2022",-200,south,N
+1083,,,"March 3, 2022",1000,,Y
+1098,SARAH connor,ALICE@EMAIL.COM,,1000,east,
+1088,John Doe,ALICE@EMAIL.COM,"March 3, 2022",-200,East,
+1098,SARAH connor,sconnor@data.net,"March 3, 2022",500,WEST,Y
+1024,ALICE JOHNSON,johndoe@gmail.com,"March 3, 2022",500,SOUTH,No
+1092,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",1000,,Y
+1017,John Doe,,"March 3, 2022",500,south,No
+1081,SARAH connor,ALICE@EMAIL.COM,"March 3, 2022",450.50,SOUTH,Yes
+1065,jane smith,johndoe@gmail.com,2022-01-15,-200,East,No
+1053,John Doe,ALICE@EMAIL.COM,2022-01-15,450.50,east,N
+1034,John Doe,ALICE@EMAIL.COM,01/02/2022,1000,WEST,Y
+1079,,janesmith@work.org,"March 3, 2022","1,200",WEST,No
+1060,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",1000,SOUTH,Y
+1040,ALICE JOHNSON,johndoe@gmail.com,,500,SOUTH,Y
+1099,ALICE JOHNSON,janesmith@work.org,2022-01-15,-200,WEST,Yes
+1032,SARAH connor,ALICE@EMAIL.COM,01/02/2022,"1,200",south,No
+1067,ALICE JOHNSON,ALICE@EMAIL.COM,2022-01-15,,East,Yes
+1032,bob lee,johndoe@gmail.com,01/02/2022,500,south,N
+1013,,janesmith@work.org,,,WEST,N
+1020,jane smith,ALICE@EMAIL.COM,2022-01-15,450.50,south,Yes
+1047,,sconnor@data.net,2022-01-15,,WEST,No
+1019,ALICE JOHNSON,,01/02/2022,450.50,east,N
+1007,bob lee,janesmith@work.org,,1000,,Y
+1006,jane smith,,"March 3, 2022",450.50,east,Yes
+1066,,,2022-01-15,450.50,south,Y
+1016,,janesmith@work.org,,-200,East,Yes
+1032,bob lee,,2022-01-15,-200,North,Y
+1047,bob lee,ALICE@EMAIL.COM,"March 3, 2022","1,200",,
+1075,John Doe,janesmith@work.org,2022-01-15,1000,East,No
+1058,,janesmith@work.org,2022-01-15,-200,East,No
+1085,ALICE JOHNSON,johndoe@gmail.com,,-200,North,Y
+1021,jane smith,johndoe@gmail.com,"March 3, 2022",500,south,Yes
+1029,bob lee,johndoe@gmail.com,"March 3, 2022",450.50,WEST,No
+1037,John Doe,janesmith@work.org,2022-01-15,1000,North,Yes
+1050,ALICE JOHNSON,johndoe@gmail.com,01/02/2022,-200,east,Y
+1053,SARAH connor,,01/02/2022,450.50,SOUTH,Y
+1007,jane smith,ALICE@EMAIL.COM,2022-01-15,"1,200",south,Y
+1026,John Doe,ALICE@EMAIL.COM,,1000,WEST,Yes
+1026,SARAH connor,,,"1,200",,
+1097,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",-200,North,Yes
+1020,jane smith,johndoe@gmail.com,01/02/2022,,WEST,No
+1029,SARAH connor,ALICE@EMAIL.COM,2022-01-15,,south,Yes
+1096,John Doe,ALICE@EMAIL.COM,,"1,200",SOUTH,
+1027,ALICE JOHNSON,janesmith@work.org,,1000,east,No
+1063,,johndoe@gmail.com,01/02/2022,"1,200",East,No
+1096,John Doe,,,"1,200",East,N
+1068,ALICE JOHNSON,ALICE@EMAIL.COM,2022-01-15,1000,,Y
+1060,John Doe,johndoe@gmail.com,,450.50,East,
+1047,bob lee,janesmith@work.org,,,North,
+1018,jane smith,ALICE@EMAIL.COM,"March 3, 2022",-200,,N
+1003,bob lee,janesmith@work.org,2022-01-15,450.50,East,N
+1034,bob lee,janesmith@work.org,,500,East,
+1063,jane smith,,01/02/2022,"1,200",south,
+1048,SARAH connor,johndoe@gmail.com,2022-01-15,"1,200",south,
+1016,bob lee,ALICE@EMAIL.COM,01/02/2022,"1,200",WEST,No
+1043,jane smith,sconnor@data.net,,1000,east,N
+1091,bob lee,,,450.50,WEST,
+1029,,,,-200,East,N
+1092,John Doe,ALICE@EMAIL.COM,2022-01-15,450.50,WEST,No
+1045,ALICE JOHNSON,sconnor@data.net,,,WEST,Yes
+1005,SARAH connor,,01/02/2022,450.50,SOUTH,No
+1098,John Doe,,,"1,200",SOUTH,No
+1036,ALICE JOHNSON,johndoe@gmail.com,01/02/2022,"1,200",south,N
+1023,jane smith,ALICE@EMAIL.COM,,-200,east,
+1092,ALICE JOHNSON,johndoe@gmail.com,2022-01-15,500,WEST,N
+1045,jane smith,ALICE@EMAIL.COM,"March 3, 2022",,SOUTH,N
+1052,John Doe,sconnor@data.net,2022-01-15,450.50,east,Y
+1094,ALICE JOHNSON,janesmith@work.org,01/02/2022,1000,North,Y
+1098,John Doe,johndoe@gmail.com,,-200,east,
+1059,bob lee,janesmith@work.org,2022-01-15,1000,east,
+1096,SARAH connor,janesmith@work.org,,1000,east,
+1062,,sconnor@data.net,,,,
+1084,John Doe,sconnor@data.net,"March 3, 2022","1,200",North,Y
+1031,SARAH connor,,2022-01-15,,,
+1086,SARAH connor,,"March 3, 2022",500,,
+1032,,janesmith@work.org,"March 3, 2022",450.50,south,Y
+1066,jane smith,,,,south,Y
+1017,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",450.50,East,Yes
+1024,jane smith,ALICE@EMAIL.COM,2022-01-15,450.50,east,Yes
+1094,John Doe,johndoe@gmail.com,,450.50,North,
+1053,bob lee,sconnor@data.net,,-200,WEST,No
+1057,SARAH connor,sconnor@data.net,,,,Y
+1066,John Doe,sconnor@data.net,"March 3, 2022",,WEST,N
+1045,jane smith,,"March 3, 2022",500,east,No
+1023,bob lee,janesmith@work.org,"March 3, 2022",1000,,
+1031,John Doe,johndoe@gmail.com,2022-01-15,-200,East,Y
+1046,John Doe,janesmith@work.org,01/02/2022,,south,N
+1085,,janesmith@work.org,01/02/2022,1000,North,N
+1022,John Doe,,"March 3, 2022","1,200",,
+1065,bob lee,janesmith@work.org,,1000,south,Y
+1026,ALICE JOHNSON,janesmith@work.org,,450.50,south,Yes
+1001,SARAH connor,,01/02/2022,-200,east,N
+1089,John Doe,sconnor@data.net,01/02/2022,,WEST,
+1016,bob lee,ALICE@EMAIL.COM,"March 3, 2022",450.50,east,
+1032,jane smith,johndoe@gmail.com,"March 3, 2022",500,SOUTH,
+1008,bob lee,,2022-01-15,450.50,SOUTH,No
+1042,jane smith,ALICE@EMAIL.COM,,-200,WEST,N
+1047,ALICE JOHNSON,sconnor@data.net,"March 3, 2022",,WEST,Yes
+1038,John Doe,sconnor@data.net,,"1,200",,Yes
+1092,SARAH connor,ALICE@EMAIL.COM,01/02/2022,500,WEST,
+1041,SARAH connor,sconnor@data.net,01/02/2022,500,WEST,
+1025,ALICE JOHNSON,janesmith@work.org,"March 3, 2022",-200,east,Yes
+1098,jane smith,johndoe@gmail.com,,500,North,No
+1049,jane smith,sconnor@data.net,2022-01-15,500,WEST,No
+1024,,sconnor@data.net,"March 3, 2022",500,East,No
+1023,,janesmith@work.org,01/02/2022,"1,200",SOUTH,
+1012,ALICE JOHNSON,janesmith@work.org,01/02/2022,,,
+1059,SARAH connor,sconnor@data.net,,1000,WEST,Y
+1006,jane smith,,01/02/2022,1000,WEST,No
+1056,bob lee,,2022-01-15,-200,south,Yes
+1035,SARAH connor,janesmith@work.org,2022-01-15,500,south,N
+1044,,johndoe@gmail.com,01/02/2022,"1,200",North,
+1019,SARAH connor,johndoe@gmail.com,01/02/2022,450.50,south,N
+1064,jane smith,sconnor@data.net,2022-01-15,,,Yes
+1007,jane smith,sconnor@data.net,01/02/2022,1000,North,
+1015,SARAH connor,,"March 3, 2022",500,east,
+1013,bob lee,,,450.50,east,Yes
+1075,,janesmith@work.org,2022-01-15,500,east,
+1086,ALICE JOHNSON,janesmith@work.org,"March 3, 2022","1,200",WEST,No
+1014,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",,south,Y
+1091,jane smith,sconnor@data.net,,-200,east,Yes
+1097,bob lee,ALICE@EMAIL.COM,01/02/2022,,,N
+1065,bob lee,ALICE@EMAIL.COM,,1000,,
+1031,,sconnor@data.net,01/02/2022,500,east,N
+1086,,sconnor@data.net,,"1,200",WEST,Yes
+1062,bob lee,,"March 3, 2022","1,200",east,No
+1085,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",450.50,SOUTH,Y
+1050,John Doe,,2022-01-15,"1,200",south,
+1024,SARAH connor,johndoe@gmail.com,,450.50,south,Y
+1057,ALICE JOHNSON,,01/02/2022,500,WEST,No
+1062,John Doe,johndoe@gmail.com,"March 3, 2022",,SOUTH,Y
+1061,SARAH connor,janesmith@work.org,,450.50,East,Y
+1021,SARAH connor,,"March 3, 2022",500,east,No
+1057,,,01/02/2022,-200,SOUTH,
+1057,,,,,south,Yes
+1085,ALICE JOHNSON,ALICE@EMAIL.COM,,,WEST,Yes
+1048,,johndoe@gmail.com,,1000,south,Yes
+1051,SARAH connor,,"March 3, 2022",,SOUTH,Y
+1041,jane smith,johndoe@gmail.com,,-200,,N
+1069,,ALICE@EMAIL.COM,2022-01-15,,SOUTH,Y
+1014,,janesmith@work.org,"March 3, 2022",,SOUTH,N
+1053,John Doe,ALICE@EMAIL.COM,"March 3, 2022","1,200",SOUTH,Yes
+1059,jane smith,ALICE@EMAIL.COM,2022-01-15,450.50,SOUTH,Yes
+1096,,,,"1,200",south,No
+1007,bob lee,ALICE@EMAIL.COM,2022-01-15,450.50,,N
+1052,SARAH connor,,01/02/2022,,SOUTH,
+1059,jane smith,johndoe@gmail.com,"March 3, 2022",1000,south,N
+1004,ALICE JOHNSON,johndoe@gmail.com,01/02/2022,1000,North,Y
+1067,,janesmith@work.org,,,,No
+1005,ALICE JOHNSON,ALICE@EMAIL.COM,01/02/2022,-200,south,No
+1095,,sconnor@data.net,2022-01-15,1000,south,Y
+1093,ALICE JOHNSON,sconnor@data.net,01/02/2022,1000,east,Y
+1046,,sconnor@data.net,2022-01-15,450.50,east,Y
+1098,ALICE JOHNSON,ALICE@EMAIL.COM,"March 3, 2022",-200,,No
+1054,,ALICE@EMAIL.COM,2022-01-15,500,North,Y
+1039,jane smith,johndoe@gmail.com,01/02/2022,,North,N
+1051,bob lee,johndoe@gmail.com,,1000,WEST,Y
+1015,,ALICE@EMAIL.COM,01/02/2022,450.50,south,
+1012,John Doe,johndoe@gmail.com,01/02/2022,500,east,Yes
+1029,bob lee,johndoe@gmail.com,,"1,200",WEST,Yes
+1018,ALICE JOHNSON,,01/02/2022,"1,200",,N
+1016,SARAH connor,johndoe@gmail.com,,1000,,Y
+1062,SARAH connor,janesmith@work.org,01/02/2022,500,east,No
+1018,SARAH connor,johndoe@gmail.com,"March 3, 2022",,North,N
+1091,jane smith,sconnor@data.net,01/02/2022,,East,No
+1057,John Doe,,01/02/2022,-200,North,N
+1054,John Doe,,01/02/2022,-200,East,Y
+1089,jane smith,,01/02/2022,450.50,,Y
+1089,jane smith,johndoe@gmail.com,01/02/2022,,North,Y
+1061,,janesmith@work.org,"March 3, 2022","1,200",North,
+1022,bob lee,,2022-01-15,450.50,WEST,No
+1008,bob lee,,,"1,200",south,N
+1011,SARAH connor,janesmith@work.org,,-200,,
+1000,ALICE JOHNSON,janesmith@work.org,,-200,North,
+1057,,johndoe@gmail.com,01/02/2022,-200,east,N
+1000,jane smith,ALICE@EMAIL.COM,2022-01-15,450.50,East,No
+1033,ALICE JOHNSON,sconnor@data.net,2022-01-15,450.50,North,Yes
+1095,jane smith,,01/02/2022,-200,,
+1047,bob lee,,"March 3, 2022",450.50,East,
+1088,,,01/02/2022,-200,east,Yes
+1000,SARAH connor,,2022-01-15,500,SOUTH,N
+1015,jane smith,johndoe@gmail.com,01/02/2022,,WEST,
+1060,John Doe,janesmith@work.org,"March 3, 2022",500,North,Y
+1063,,sconnor@data.net,01/02/2022,"1,200",east,Yes
+1062,SARAH connor,sconnor@data.net,2022-01-15,-200,,Y
+1068,John Doe,,,"1,200",East,N
+1021,ALICE JOHNSON,janesmith@work.org,2022-01-15,,,N
+1092,SARAH connor,ALICE@EMAIL.COM,01/02/2022,450.50,East,Y
+1066,,ALICE@EMAIL.COM,"March 3, 2022",1000,SOUTH,N
